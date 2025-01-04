@@ -46,7 +46,7 @@ support Windows 10 - Windows11
 
 # Kernel-Views
 ### System Callbacks/Notifys
-Enum.     
+Enum       
 1. PsSetCreateProcessNotifyRoutine
 2. PsSetCreateProcessNotifyRoutineEx
 3. PsSetCreateProcessNotifyRoutineEx2
@@ -69,7 +69,14 @@ Enum.
 20. PsRegisterAltSystemCallHandler
 21. DbgSetDebugPrintCallback
 
-### MiniFilter
+Enum Type/Entry Address/Module  
+Disabled Callback/Notify    
+
+
+
+### MiniFiler
+Enum      
 1. Filter
 2. Pre Operation
 3. Post Operation
+4. Module
