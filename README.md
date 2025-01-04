@@ -45,4 +45,31 @@ support Windows 10 - Windows11
 
 
 # Kernel-Views
-1. System Callbacks/Notifys
+### System Callbacks/Notifys
+Enum.     
+1. PsSetCreateProcessNotifyRoutine
+2. PsSetCreateProcessNotifyRoutineEx
+3. PsSetCreateProcessNotifyRoutineEx2
+4. PsSetCreateThreadNotifyRoutine
+5. PsSetCreateThreadNotifyRoutineEx
+6. PsSetLoadImageNotifyRoutine
+7. PsSetLoadImageNotifyRoutineEx
+8. KeRegisterBugCheckCallback
+9. KeRegisterBugCheckReasonCallback
+10. CmRegisterCallback
+11. CmRegisterCallbackEx
+12. IoRegisterShutdownNotification
+13. IoRegisterLastChanceShutdownNotification
+14. PoRegisterPowerSettingCallback
+15. IoRegisterFsRegistrationChange
+16. KeRegisterNmiCallback
+17. SeCiCallbacks
+18. PoRegisterCoalescingCallback
+19. IoRegisterPriorityCallback
+20. PsRegisterAltSystemCallHandler
+21. DbgSetDebugPrintCallback
+
+### MiniFilter
+1. Filter
+2. Pre Operation
+3. Post Operation
