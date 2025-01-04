@@ -69,7 +69,7 @@ Enum
 20. PsRegisterAltSystemCallHandler
 21. DbgSetDebugPrintCallback
 
-Features
+Features:
 
 Enum Type/Entry Address/Module  
 Disabled Callback/Notify    
@@ -89,6 +89,8 @@ Enum
 1. Function Name
 2. Function Address
 3. Module
+
+Features:
 
 SSDT Hook Scan
 
