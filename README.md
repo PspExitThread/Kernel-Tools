@@ -42,3 +42,7 @@ support Windows 10 - Windows11
 2. Open Kernel Tools.exe
 3. Select No in the pop-up selection box
 4. Wait to enter
+
+
+# Kernel-Views
+1. System Callbacks/Notifys
