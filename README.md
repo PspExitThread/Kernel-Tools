@@ -80,3 +80,24 @@ Enum
 2. Pre Operation
 3. Post Operation
 4. Module
+
+
+### SSDT
+Enum                 
+1. Function Name
+2. Function Address
+3. Module
+
+SSDT Hook Scan
+
+### IDT
+Enum         
+1. IDT Function Address
+2. Module
+
+
+### IoTimer
+Enum           
+1. IoTimer Object Address
+2. IoTimer Entry Address
+3. Module
