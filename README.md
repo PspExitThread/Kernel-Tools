@@ -69,6 +69,8 @@ Enum
 20. PsRegisterAltSystemCallHandler
 21. DbgSetDebugPrintCallback
 
+Features
+
 Enum Type/Entry Address/Module  
 Disabled Callback/Notify    
 
