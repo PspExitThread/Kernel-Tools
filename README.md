@@ -45,6 +45,13 @@ support Windows 10 - Windows11
 
 
 # Kernel-Views
+### Drivers
+1. Driver Name
+2. Driver Base
+3. Driver Object
+4. Driver Path
+
+
 ### System Callbacks/Notifys
 Enum       
 1. PsSetCreateProcessNotifyRoutine
@@ -82,6 +89,9 @@ Enum
 2. Pre Operation
 3. Post Operation
 4. Module
+
+Features:
+Remove MiniFilter                 
 
 
 ### SSDT
