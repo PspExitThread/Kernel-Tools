@@ -79,6 +79,7 @@ Enum
 19. IoRegisterPriorityCallback
 20. PsRegisterAltSystemCallHandler
 21. DbgSetDebugPrintCallback
+22. ObRegisterCallBacks
 
 Features:
 
