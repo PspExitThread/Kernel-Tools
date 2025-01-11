@@ -7,3 +7,43 @@ Kernel Tools 1.1.0
 First public version
 
 Kernel Tools 1.1.0 - 1.1.3
+
+Test Version(No public)
+
+Kernel Tools 1.1.3
+
+Fix Bugs
+
+Kernel Tools 1.1.4
+
+Fix Win10 BSOD Problem
+
+Kernel Tools 1.1.4 - 1.1.6
+
+Test Version(No public)
+
+Kernel Tools 1.1.6
+
+Close the Hvm ingress entrance
+Fix bugs
+
+Kernel Tools 1.1.6 - 1.1.8
+
+Test Version(No public)
+
+Kernel Tools 1.1.8
+
+Fix bugs
+Add Notify-View Gui Tools
+
+Kernel Tools 1.1.9
+
+Fix bugs
+Add Enum DriverObject
+Add ForceUnloadDriver
+
+Kernel Tools 1.2.0
+
+Fix Bugs
+Add Multiple languages
+Add Setting Page
