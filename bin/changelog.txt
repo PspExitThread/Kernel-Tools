@@ -58,3 +58,8 @@ Kernel Tools 1.2.3
 
 Fix Bugs
 Add TerminateProcess And Delete Source File
+
+
+Kernel Tools 1.2.4
+
+Fix bugs
