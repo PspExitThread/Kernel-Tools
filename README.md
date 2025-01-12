@@ -23,6 +23,8 @@ support Windows 10 - Windows11
 15. ForceDeleteFile(Ignore Irp Occupation/HardLink/Handle Occupation)
 16. FastShutDown
 17. FastReboot
+18. Disable PatchGuard
+19. Disable Hvci and DSE
 
 
 ### Commandline
