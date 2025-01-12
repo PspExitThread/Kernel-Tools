@@ -47,3 +47,9 @@ Kernel Tools 1.2.0
 Fix Bugs
 Add Multiple languages
 Add Setting Page
+
+Kernel Tools 1.2.1
+
+Fix bugs
+Add Disable PatchGuard
+Add Disable Hvci
