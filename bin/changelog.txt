@@ -53,3 +53,8 @@ Kernel Tools 1.2.1
 Fix bugs
 Add Disable PatchGuard
 Add Disable Hvci
+
+Kernel Tools 1.2.3
+
+Fix Bugs
+Add TerminateProcess And Delete Source File
