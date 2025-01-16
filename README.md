@@ -25,6 +25,7 @@ support Windows 10 - Windows11
 17. FastReboot
 18. Disable PatchGuard
 19. Disable Hvci and DSE
+20. Hide Driver
 
 
 ### Commandline
@@ -36,6 +37,7 @@ support Windows 10 - Windows11
 5. "Kernel Tools.exe" -prohibitcreatefile (prohibitcreatefile)
 6. "Kernel Tools.exe" -disabledprohibitcreatefile (disabledprohibitcreatefile)
 7. "Kernel Tools.exe" -forcedeletefile (forcedeletefile(The only entry point for ForceDeleteFile))
+8. "Kernel Tools.exe" -irpdeletefile(deletefile(The only entry point for DeleteFile))
 
 
 ### How to use
