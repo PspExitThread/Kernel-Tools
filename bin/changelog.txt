@@ -63,3 +63,9 @@ Add TerminateProcess And Delete Source File
 Kernel Tools 1.2.4
 
 Fix bugs
+
+Kernel Toosl 1.2.5
+
+Fix bugs
+Add Hidden Driver
+add KernelIrpDeleteFile(Kernel Tools.exe -irpdeletefile)
