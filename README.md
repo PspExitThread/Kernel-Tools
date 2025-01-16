@@ -57,7 +57,8 @@ Enum
 4. Driver Path
 
 Features:                    
-ForceUnloadDriver                    
+ForceUnloadDriver   
+Hidden Driver                                                
 
 
 ### System Callbacks/Notifys
