@@ -26,6 +26,7 @@ support Windows 10 - Windows11
 18. Disable PatchGuard
 19. Disable Hvci and DSE
 20. Hide Driver
+21. Prohibit INIT Firmware
 
 
 ### Commandline
