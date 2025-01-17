@@ -6,7 +6,7 @@ support Windows 10 - Windows11
 
 ### Features
 
-1. View Process\Drivers\SystemCallBacks\SystemNotifys\MiniFilters\IDT\SSDT\IoTimer.....
+1. View Process\Drivers\SystemCallBacks\SystemNotifys\MiniFilters\IDT\SSDT\SSSDT\IoTimer.....
 2. Hide Process
 3. Force Hide Process(Erase PspCidTable\Set Pid To 0 ...)
 4. TerminateProcess(ZwTerminateProcess)
