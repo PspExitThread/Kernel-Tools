@@ -73,3 +73,15 @@ add KernelIrpDeleteFile(Kernel Tools.exe -irpdeletefile)
 Kernel Tools 1.2.6
 
 Fix bugs
+
+Kernel Tools 1.2.6 - 1.2.9
+
+No Public
+
+
+Kernel Tools 1.2.9
+
+Fix bugs
+optimization BlackList(ROOTKITList)
+
+
