@@ -69,3 +69,7 @@ Kernel Toosl 1.2.5
 Fix bugs
 Add Hidden Driver
 add KernelIrpDeleteFile(Kernel Tools.exe -irpdeletefile)
+
+Kernel Tools 1.2.6
+
+Fix bugs
