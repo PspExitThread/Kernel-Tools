@@ -95,3 +95,9 @@ Kenrel Tools 1.3.2
 
 Fix bugs
 Add Disable/Enable ObCallback
+
+Kernel Tools 1.3.4
+
+Fix bugs
+Add Bypass anti-screenshots
+Add Execute BSOD
