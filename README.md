@@ -144,4 +144,5 @@ Enum
 2. Permanent Disable PatchGuard
 3. Prohibit INIT Firmware
 
-If you do not use the virtual machine and cause any damages, the author will not be held responsible！
+If you do not use the virtual machine and cause any damages, the author will not be held responsible！                           
+Please do not attempt to delete system files using forcedeletefile!
