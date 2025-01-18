@@ -130,3 +130,18 @@ Enum
 1. IoTimer Object Address
 2. IoTimer Entry Address
 3. Module
+
+
+
+
+
+
+# Precautions
+
+### The following features are available in virtual machines
+
+1. Disable PatchGuard
+2. Permanent Disable PatchGuard
+3. Prohibit INIT Firmware
+
+If you do not use the virtual machine and cause any damages, the author will not be held responsible！
