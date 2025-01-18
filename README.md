@@ -29,6 +29,8 @@ support Windows 10 - Windows11
 21. Prohibit INIT Firmware
 22. Permanent Disable PatchGuard
 23. Disable/Enable ObCallbacks
+24. Bypass anti-screenshots
+25. Execute BSOD
 
 
 ### Commandline
