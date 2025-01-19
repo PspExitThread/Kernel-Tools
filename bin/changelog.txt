@@ -101,3 +101,9 @@ Kernel Tools 1.3.4
 Fix bugs
 Add Bypass anti-screenshots
 Add Execute BSOD
+
+Kernel Tools 1.3.5
+
+Fix bugs
+Fixed the issue that UEFI could not disable PatchGuard
+
