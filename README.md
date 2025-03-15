@@ -1,4 +1,6 @@
-### This version has been deprecated and is no longer in development, so stay tuned for a new version
+# This version has been deprecated and is no longer in development, so stay tuned for a new version
+
+## This version is deprecated, so go here
 
 https://github.com/PspExitThread/SKT64
 
